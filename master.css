@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Space+Mono:wght@400;700&display=swap');
+
+h1, h2, h3, h4 {
+  font-family: 'Space Mono', monospace;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.purple-header {
+  background-color: #d4c1e080;
+  padding: 1em;
+  border-radius: 6px;
+  margin-bottom: 2em;
+}
+
+.blue-text-body {
+  padding: 1em;
+  margin-bottom: 2em;
+  border-radius: 6px;
+  background-color: #9dabb040;
+}
+
+.main-body {
+  background-color: #e6ebea60;
+}
+
+.sub-thought {
+  margin-left: 3em;
+}
